@@ -1,5 +1,6 @@
 ---
 layout: page
+header: Working Papers
 title: Working Papers
 permalink: /papers/
 ---
