@@ -8,7 +8,12 @@
 		<nav>
 			<ul>
 				{% for page in site.pages %} {% if page.title %}
-				<li><a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></li>
+				{% if page.url == link.url %}
+				<li class="current">
+				{% else %}
+				<li>
+				{% endif %}
+				<a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></li>
 				{% endif %} {% endfor %}
 				<li><a href="https://dl.dropboxusercontent.com/u/5714185/cv05.pdf">CV</a></li>
 			</ul>
