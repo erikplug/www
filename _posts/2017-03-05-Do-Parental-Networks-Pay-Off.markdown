@@ -13,7 +13,7 @@ booktitle: ""
 editor: ""
 publisher: ""
 institution: ""
-pdf: "http://www.economists.nl/files/20161122-Friendship2016Revision.pdf"
+pdf: "https://www.dropbox.com/s/lxhrp7x6not6q4x/PlugVanderKlaauwZiegler2016SJE.pdf"
 date: 2017-03-05
 category: pub
 ---
