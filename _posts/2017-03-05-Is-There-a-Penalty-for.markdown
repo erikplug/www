@@ -1,4 +1,4 @@
----
+ub---
 layout: pub
 title: "Is there a penalty for registered women? Is there a premium for registered men? Evidence from a sample of transsexual workers"
 abstract: "In this paper we study the earnings of transsexual workers using a large
@@ -16,12 +16,12 @@ journal: "European Economic Review"
 volume: "forthcoming"
 number: ""
 pages: ""
-type: ""
+type: "article"
 booktitle: ""
 editor: ""
 publisher: ""
 institution: ""
 pdf: "https://www.dropbox.com/s/3joa9o2jvgttaaz/GeijtenbeekPlug2018EER.pdf?dl=0"
 date: 2017-03-05
-category: papers
+category: pub
 ---
