@@ -13,7 +13,7 @@ in which transsexual workers are discriminated against as a registered female as
 authors: "Lydia Geijtenbeek and Erik Plug"
 year: "2018"
 journal: "European Economic Review"
-volume: "forthcoming"
+volume: "Forthcoming"
 number: ""
 pages: ""
 type: "article"
