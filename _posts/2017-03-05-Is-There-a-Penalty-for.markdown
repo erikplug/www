@@ -1,4 +1,4 @@
-ub---
+---
 layout: pub
 title: "Is there a penalty for registered women? Is there a premium for registered men? Evidence from a sample of transsexual workers"
 abstract: "In this paper we study the earnings of transsexual workers using a large
