@@ -1,19 +1,27 @@
 ---
-layout: paper
-title: "Is There a Penalty for Becoming a Woman? Is There a Premium for Becoming a Man? Evidence from a Sample of Transsexual Workers"
-abstract: "We study the earnings of transsexuals using Dutch administrative labor force data. First, we compare transsexuals to other women and men, and find that transsexuals earn more than women and less than men. Second, we compare transsexuals before and after transition using worker fixed effects models, and find a fall in earnings for men who become women and a smaller rise (if any) in earnings for women who become men. These earnings patterns, which hold for annual as well as hourly earnings, are consistent with a labor market model in which workers are discriminated for being female and transsexual."
+layout: pub
+title: "Is there a penalty for registered women? Is there a premium for registered men? Evidence from a sample of transsexual workers"
+abstract: "In this paper we study the earnings of transsexual workers using a large
+administrative sample drawn from the Dutch labor force. In particular,
+we make two comparisons. First, we compare transsexual workers to other women
+and men, and find that they earn more than women and less
+than men. Second, we compare transsexual workers before and after their administrative gender transition,
+and find that male-to-female transsexual workers earn less as registered women and female-to-male transsexual workers earn as much
+(if not marginally more) as registered men. These patterns hold for annual and hourly earnings, and do not change when we account for
+individual fixed effects. Together, our results are consistent with a labor market model
+in which transsexual workers are discriminated against as a registered female as well as a LGBT worker."
 authors: "Lydia Geijtenbeek and Erik Plug"
-year: "2019"
-journal: ""
+year: "Forthcoming"
+journal: "European Economic Review"
 volume: ""
 number: ""
 pages: ""
-type: "unpublished"
+type: "article"
 booktitle: ""
 editor: ""
 publisher: ""
 institution: ""
-pdf: "http://www.economists.nl/files/20150626-Transsexuals_2015.pdf"
+pdf: "https://www.dropbox.com/s/3joa9o2jvgttaaz/GeijtenbeekPlug2018EER.pdf?dl=0"
 date: 2017-03-05
-category: papers
+category: pub
 ---
