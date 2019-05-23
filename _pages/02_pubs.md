@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Publications
-header: Publications
 permalink: /pubs/
 ---
 
