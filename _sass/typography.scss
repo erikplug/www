@@ -48,12 +48,13 @@
         @media (max-width: $small-width) {
             img {
                 margin-top: -5px;
+                height:auto;
             }
         }
     }
     img {
         text-align: center;
-        max-width: $image-size;
+        width: 100%;
     }
     .jekyll-twitter-plugin {
         size: 50%;
