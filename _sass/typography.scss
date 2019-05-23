@@ -37,6 +37,8 @@
         font-style: italic;
     }
     .profile-picture {
+        width: $image-size;
+        height: $image-size;
         position: relative;
         margin: -10px 0 0 15px;
         float: right;
@@ -48,7 +50,6 @@
         @media (max-width: $small-width) {
             img {
                 margin-top: -5px;
-                height:auto;
             }
         }
     }
